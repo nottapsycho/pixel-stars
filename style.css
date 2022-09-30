@@ -1,0 +1,39 @@
+/*************/
+/*  GENERAL  */
+/*************/
+
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0px;
+    height: 100%;
+}
+
+div.background {
+    height: 100%;
+    width: 100%;
+    background-image: url(https://nottapsycho.github.io/Wallpaper/desktop%20wallpaper.png);
+    /* background & font below doesnt scale with screen size */
+}
+
+
+/**********/
+/*  TIME  */
+/**********/
+
+#clock {
+    font-size: 15vh;
+    font-family: 'Barlow Condensed';
+    color: #f9dcc4;
+}
+
+h1 {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+}
