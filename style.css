@@ -2,6 +2,7 @@ html {
   height: 100%;
   background: radial-gradient(ellipse at bottom, #202020 0%, #111111 100%);
   overflow: hidden;
+  transform: scale(1.25) translate(280px) rotate(3deg);
 }
 
 #stars {
